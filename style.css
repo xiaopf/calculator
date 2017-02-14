@@ -1,0 +1,35 @@
+body{
+	background-color:#f47920;
+}
+.calBody{
+	width:280px;
+	margin:250px auto;
+	padding: 20px 20px;
+	background-color:#905a3d;
+
+}
+.title{
+	text-align: center;
+	font-size: 20px;
+	margin: 10px 0;
+}
+.screen{
+	width: 254px;
+	height: 30px;
+	margin: 10px;
+	text-align: right;
+}
+.keyBoard{
+	display: flex;
+	flex-wrap: wrap;
+}
+.keys{
+	width: 50px;
+	height: 44px;
+	margin: 10px;
+	background-color:#fff;
+	color: #000;
+	line-height: 40px;
+	text-align: center;
+	cursor:pointer;
+}
